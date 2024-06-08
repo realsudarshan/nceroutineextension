@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Daily Schedule",
+  "version": "1.0",
+  "description": "Displays today's schedule based on the current date.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
