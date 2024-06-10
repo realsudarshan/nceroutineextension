@@ -20,6 +20,8 @@ A simple browser extension that can show today and tommarow schedule of NCE thir
 - Then click on 'load unpacked' button and locate the folder you have downloaded 
 Boom,you have your extension in your extensions section.You can also pin it for easy use.
 
+I am open for yor feedback
+
 
 
 
